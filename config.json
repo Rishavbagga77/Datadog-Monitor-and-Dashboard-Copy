@@ -1,0 +1,8 @@
+{
+    "source_api_key": "nclouds acc api",
+    "source_app_key": "",
+    "source_api_host": "https://api.datadoghq.com/",
+    "dest_api_key": "nops account api",
+    "dest_app_key": "",
+    "dest_api_host": "https://api.datadoghq.com/"
+}
